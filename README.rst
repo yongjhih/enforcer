@@ -1,3 +1,7 @@
+.. image:: https://travis-ci.org/yongjhih/enforcer.svg?branch=master
+    :target: https://travis-ci.org/yongjhih/enforcer
+    :alt: Build Status
+
 Usage
 -----
 
