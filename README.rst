@@ -1,6 +1,8 @@
 .. image:: https://travis-ci.org/yongjhih/enforcer.svg?branch=master
     :target: https://travis-ci.org/yongjhih/enforcer
     :alt: Build Status
+.. image:: https://codecov.io/gh/yongjhih/enforcer/branch/master/graph/badge.svg
+  :target: https://codecov.io/gh/yongjhih/enforcer
 
 Usage
 -----
