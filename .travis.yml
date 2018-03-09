@@ -5,7 +5,7 @@ python:
 
 install: pip install -e . pytest pytest-cov codecov
 
-script: pytest --cov=./
+script: pytest --cov=./enforcer
 
 after_success:
       - codecov
